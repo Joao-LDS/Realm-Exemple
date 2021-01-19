@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PersonTableViewController.swift
 //  Realm-Exemple
 //
 //  Created by João Luis Santos on 19/01/21.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PersonTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
-
+   
 }
-
